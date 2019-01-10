@@ -11,4 +11,6 @@ package javaapplication1;
  */
 public class Bob {
     
+    private int id;
+    
 }
