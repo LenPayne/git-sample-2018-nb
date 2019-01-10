@@ -17,4 +17,6 @@ public class Bob {
     
     private String name;
     
+    private String phone;
+    
 }
