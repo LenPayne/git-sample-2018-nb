@@ -19,4 +19,6 @@ public class Bob {
     
     private String phone;
     
+    private String email;
+    
 }
