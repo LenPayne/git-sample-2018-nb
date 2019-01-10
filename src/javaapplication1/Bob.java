@@ -13,4 +13,6 @@ public class Bob {
     
     private int id;
     
+    private String name;
+    
 }
