@@ -11,6 +11,8 @@ package javaapplication1;
  */
 public class Bob {
     
+    private String address;
+    
     private int id;
     
     private String name;
